@@ -1,0 +1,200 @@
+.whole {
+    height: 775px;
+    background-image: url(../img/background2.jpg);
+    background-repeat: repeat;
+}
+
+.top {
+    height: 80px;
+}
+
+.logo {
+    padding: 50px 0 0 680px;
+}
+
+.bottom {
+    height: 410px;
+    width: 290px;
+    margin: 40px auto;
+    border-radius: 3px;
+    box-shadow: 5px 5px 8px #e1e1e1;
+    background-color: white;
+}
+
+.one {
+    height: 50px;
+    width: 290px;
+    border-bottom: 1px solid #e1e1e1;
+}
+
+.one1 {
+    height: 29px;
+    width: 107px;
+    float: left;
+    font-size: 15px;
+    font-family: 'microsoft yahe';
+    color: #3169b0;
+    padding: 18px 0 0 38px;
+    border-bottom: 3px solid #3169b0;
+}
+
+.one2 {
+    float: right;
+    font-size: 15px;
+    font-family: "宋体";
+    color: #d1d1d1;
+    padding: 18px 30px 0 0;
+    font-family: 'microsoft yahe';
+}
+
+.one2 a:hover {
+    color: rgb(58, 57, 57);
+}
+
+.one2 a {
+    text-decoration: none;
+    color: #d1d1d1;
+}
+
+.two {
+    height: 30px;
+    width: 230px;
+    margin-left: 25px;
+    padding-top: 30px;
+}
+
+.two1 {
+    height: 28px;
+    width: 230px;
+    color: #b9b9b9;
+    font-size: 12px;
+    padding-left: 6px;
+    border: 1px solid #c5c5c5;
+}
+
+.three {
+    height: 30px;
+    width: 290px;
+    margin-left: 25px;
+    margin-top: 20px;
+}
+
+.three1 {
+    height: 28px;
+    width: 130px;
+    float: left;
+    font-size: 12px;
+    color: #b9b9b9;
+    padding-left: 6px;
+    border: 1px solid #c5c5c5;
+}
+
+.three2 {
+    height: 32px;
+    width: 95px;
+    font-size: 14px;
+    color: rgb(56, 56, 233);
+    margin-left: 5px;
+    border: 1px solid rgb(79, 79, 230);
+}
+
+.four {
+    height: 40px;
+    margin-left: 21px;
+    margin-top: 21px;
+    font-size: 12px;
+    color: black;
+}
+
+.five {
+    height: 40px;
+    width: 290px;
+    padding-left: 31px;
+}
+
+.five1 {
+    height: 30px;
+    width: 230px;
+    background-color: #3169b0;
+    font-size: 14px;
+    font-family: "宋体";
+    color: #ffffff;
+    border: #ffffff;
+}
+
+.five1:hover {
+    box-shadow: 0 0 6px #3169b0;
+}
+
+.six {
+    height: 28px;
+    padding: 5px 0 0 25px;
+    font-size: 12px;
+    font-family: "宋体";
+    color: rgb(79, 79, 230);
+}
+
+.seven {
+    height: 2px;
+    width: 186px;
+    margin-left: 50px;
+    border-top: 1px dashed #e1e1e1;
+}
+
+.eight {
+    height: 15px;
+    padding: 12px 0 0 118px;
+    font-size: 12px;
+    font-family: "宋体";
+    color: gray;
+}
+
+.nine {
+    height: 80px;
+    margin-top: 10px;
+    margin-left: 20px;
+    font-size: 12px;
+    font-family: "宋体";
+    color: gray;
+}
+
+.nine1 {
+    float: left;
+    padding-right: 10px;
+}
+
+.nine11 {
+    padding-left: 10px;
+}
+
+.nine12 {
+    padding-left: 15px;
+}
+
+.nine2 {
+    float: left;
+    padding: 4px 0 0 39px;
+}
+
+.nine21 {
+    padding-left: 20px;
+    padding-bottom: 4px;
+}
+
+.nine22 {
+    padding-left: 21px;
+}
+
+.nine3 {
+    float: right;
+    padding: 4px 32px 0 0;
+}
+
+.nine31 {
+    padding-left: 10px;
+    padding-bottom: 4px;
+}
+
+.nine32 {
+    padding-left: 17px;
+}

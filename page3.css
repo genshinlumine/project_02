@@ -1,0 +1,128 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.w {
+    width: 700px;
+    margin: auto;
+}
+
+li {
+    list-style-type: none;
+}
+
+.header {
+    height: 79px;
+    background: #fff;
+}
+
+.logo {
+    float: left;
+    height: 72px;
+    width: 100px;
+    line-height: 90px;
+}
+
+.nav {
+    height: 72px;
+}
+
+.nav ul li {
+    float: left;
+    padding-left: 70px;
+    line-height: 79px;
+}
+
+.nav ul li a {
+    text-decoration: none;
+    color: #000;
+}
+
+.nav ul li a:hover {
+    color: #0b8bff;
+    border-bottom: 1px solid #0b8bff;
+}
+
+.five1 {
+    height: 30px;
+    width: 230px;
+    background-color: #3169b0;
+    font-size: 14px;
+    font-family: "宋体";
+    color: #ffffff;
+    border: #ffffff;
+}
+
+.five1:hover {
+    box-shadow: 0 0 6px #3169b0;
+}
+
+
+/* 内容 */
+.box {
+    height: auto;
+    background-color: #e1e1e1;
+}
+
+.gehe {
+    height: 40px;
+    width: 1600px;
+    background-color: #e1e1e1;
+}
+
+.content {
+    width: 700px;
+    margin: auto;
+    padding: 60px 100px;
+    padding-bottom: 120px;
+    background-color: #fff;
+    font-size: 16px;
+    line-height: 30px;
+}
+
+/* 底部 */
+.bottom {
+    height: 300px;
+    background-color: #000;
+}
+
+.bottom_top {
+    padding: 60px 0 0 200px;
+}
+
+.bottom_top img {
+    float: left;
+}
+
+.bottom_top h2 {
+    color: #fff;
+    font-family: '宋体';
+    float: left;
+    margin-left: 15px;
+    margin-top: 15px;
+}
+
+.wechat {
+    float: left;
+}
+
+.wechat img {
+    margin-left: 95px;
+}
+
+.bottom_bottom {
+    width: 1024x;
+    margin: 140px;
+    border-top: 1px solid #888686;
+}
+
+.bottom_bottom h4 {
+    color: #fff;
+    padding-bottom: 10px;
+}
+
+.bottom_bottom span {
+    color: #fff;
+    font-family: serif;
+}
